@@ -1,5 +1,6 @@
 # Pong-game-in-python
 A local two player, classic pong game built in python using Turtle module.
+
 ![pong](images/pong.png)
 
 ## How to run the game
